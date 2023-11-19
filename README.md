@@ -38,7 +38,7 @@ Make sure you have the following software installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/MyTimetable.git
+   git clone https://github.com/Git-With-Chris/SmartEnroll.git
    ```
 2. Compile the Java files:
 
@@ -48,16 +48,16 @@ Make sure you have the following software installed on your machine:
    
 ## Demo
 
-![Main Page](images/MainPage)
-![Option 1](images/Option1)
-![Option 2](images/Option2)
+![Main Page](images/MainPage.png)
+![Option 1](images/Option1.png)
+![Option 2](images/Option2.png)
 
 ## Usage
 
 Run the program using the following command:
 
 ```bash
-java -jar S3954428_A1.jar
+java -jar SmartEnroll.jar
 ```
 
 ### Searching for Courses
@@ -79,8 +79,9 @@ java -jar S3954428_A1.jar
 
 ```plaintext
 .
-├── S3954428-A1.jar
-├── S3954428_A1
+├── SmartEnroll.jar
+├── course.csv
+├── files
 │   ├── bin
 │   │   ├── Program
 │   │   │   └── A1
@@ -97,13 +98,13 @@ java -jar S3954428_A1.jar
 │       │       ├── CourseTest.java
 │       │       └── Main.java
 │       └── module-info.java
-├── course.csv
 └── images
     ├── MainPage.png
     ├── Option1.png
     └── Option2.png
 
 9 directories, 15 files
+
 ```
 
 ## Contributing
