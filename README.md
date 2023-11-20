@@ -1,6 +1,6 @@
 # Smart Course Enroll ✅
 
-MyTimetable is a simple Java program that allows users to search for courses, enroll in courses, view their enrolled courses, and withdraw from courses. The program reads course information from a CSV file and provides a user-friendly interface for managing course schedules from the command line.
+SmartEnroll is a simple Java program that allows users to search for courses, enroll in courses, view their enrolled courses, and withdraw from courses. The program reads course information from a CSV file and provides a user-friendly interface for managing course schedules from the command line.
 
 ## Table of Contents
 
